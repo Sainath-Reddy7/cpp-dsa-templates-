@@ -1,0 +1,3 @@
+C:/Users/kisor/Academics/SEM-3/DSA - 2/New folder/ADA_XXX/ADA_XXX/build/CMakeFiles/DsaCodeRepo.dir
+C:/Users/kisor/Academics/SEM-3/DSA - 2/New folder/ADA_XXX/ADA_XXX/build/CMakeFiles/edit_cache.dir
+C:/Users/kisor/Academics/SEM-3/DSA - 2/New folder/ADA_XXX/ADA_XXX/build/CMakeFiles/rebuild_cache.dir
